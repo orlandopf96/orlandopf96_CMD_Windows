@@ -1,13 +1,7 @@
 Ejecutar Power Chell como administrador para poder ejecutar los comandos.....
+*******************************************************************************
 
-
-1-Secuencias de comandos de activación de Microsoft (MAS) 
-
-
-irm https://get.activated.win | iex 
-
-
-2-La utilidad definitiva de Windows 
+La utilidad definitiva de Windows 
 https://christitus.com/windows-tool/#install
 
 

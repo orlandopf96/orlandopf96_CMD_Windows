@@ -1,7 +1,12 @@
-Abra PowerShell
+Ejecutar Power Chell como administrador para poder ejecutar los comandos.....
+*********************************************************************************
+
+Método 1: PowerShell (Windows 8 y versiones posteriores)
+
+1-Abra PowerShell
 Para ello, presione la tecla de Windows + X, luego seleccione PowerShell o Terminal.
 
-Copie y pegue el código a continuación, luego presione enter.
+2-Copie y pegue el código a continuación, luego presione enter.
 
 irm https://get.activated.win | iex
 
@@ -9,8 +14,33 @@ Como alternativa, puede usar lo siguiente (esto quedará en desuso en el futuro)
 
 irm https://massgrave.dev/get | iex
 
-Verás las opciones de activación.
+3-Verás las opciones de activación.
 Presione [1] HWID para la activación de Windows.
 Presione [2] Ohook para la activación de Office.
 
-Es todo
+4-Es todo
+
+
+
+
+Método 2 - Tradicional (Windows 7 y versiones posteriores)
+
+1-Descargue el archivo utilizando uno de los siguientes enlaces:
+
+o https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip
+https://git.activated.win/massgrave/Microsoft-Activation-Scripts/archive/master.zip
+
+2-Haga clic con el botón derecho del ratón en el archivo zip descargado y extráigalo.
+
+3-En la carpeta extraída, busque la carpeta denominada .All-In-One-Versión
+
+4-Ejecute el archivo denominado .MAS_AIO.cmd
+
+5-Verás las opciones de activación. Siga las instrucciones que aparecen en pantalla.
+
+6-Es todo.
+
+
+
+
+Pagina Web https://massgrave.dev/
