@@ -1,0 +1,16 @@
+Abra PowerShell
+Para ello, presione la tecla de Windows + X, luego seleccione PowerShell o Terminal.
+
+Copie y pegue el código a continuación, luego presione enter.
+
+irm https://get.activated.win | iex
+
+Como alternativa, puede usar lo siguiente (esto quedará en desuso en el futuro):
+
+irm https://massgrave.dev/get | iex
+
+Verás las opciones de activación.
+Presione [1] HWID para la activación de Windows.
+Presione [2] Ohook para la activación de Office.
+
+Es todo
