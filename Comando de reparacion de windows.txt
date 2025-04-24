@@ -1,0 +1,9 @@
+Comandos para reparación del sistema operativo ejecutar el símbolo del sistema (CMD) como administrador. 
+
+1-Con conexión 
+
+DISM /ONLINE /CLEANUP-IMAGE /RESTOREHEALTH 
+
+2-sin conexión 
+
+SFC Scannow

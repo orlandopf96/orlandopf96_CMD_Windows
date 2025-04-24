@@ -1,0 +1,1 @@
+msdt.exe -ep WindowsHelp id SearchDiagnostic
