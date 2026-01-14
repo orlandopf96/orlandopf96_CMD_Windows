@@ -6,4 +6,4 @@ DISM /ONLINE /CLEANUP-IMAGE /RESTOREHEALTH
 
 2-sin conexión 
 
-SFC Scannow
+SFC /Scannow
